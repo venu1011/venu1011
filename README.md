@@ -34,7 +34,7 @@ const venu = {
 - 🔭 Currently working on **AI-powered web apps** that actually solve real problems
 - 🌱 Deep-diving into **LLMs, API integration & scalable architectures**
 - ⚡ I build fast — from idea to deployed product
-- �� Believer in clean UI, smart UX, and code that speaks for itself
+- 💡 Believer in clean UI, smart UX, and code that speaks for itself
 - 📫 Reach me at: **[GitHub](https://github.com/venu1011)**
 
 ---
